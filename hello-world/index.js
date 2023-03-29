@@ -82,7 +82,7 @@ app.use(
 function keepalive() {
   // 1.请求主页，保持唤醒
   let okteto_app_url =
-    "https://okteto-trojan-git-sub8.cloud.okteto.net";
+    "https://okt555-guada23.cloud.okteto.net";
   request(okteto_app_url, function (error, response, body) {
     if (!error) {
       console.log("保活-主页发包成功！");
