@@ -14,7 +14,7 @@
             "settings": {
                 "clients": [
                     {
-                        "password": "123"
+                        "password": "eaae1132-e78d-468e-aadc-000a525024d7"
                     }
                 ]
             },
@@ -25,7 +25,7 @@
                 }
             },
             "sniffing": {
-                "enabled": true,
+                "enabled": false,
                 "destOverride": [
                     "http",
                     "tls",
